@@ -1,2 +1,2 @@
 # YouTube Roulette
-Makes watching YouTube a nightmare.
+Makes watching YouTube an absolute nightmare.

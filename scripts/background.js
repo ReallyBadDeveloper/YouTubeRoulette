@@ -1,4 +1,4 @@
 chrome.scripting.executeScript({
-        func: "roulette",
-        files : [ "content.js" ],
-    })
+    func: "roulette",
+    files : [ "content.js" ],
+});
